@@ -1,27 +1,11 @@
 body {
 	background-color: #f1f0e0;
+	padding: 20px 490px;
 }
-
-.header {
-	margin: 4% 25%;
+#container {
+	width: 951px;
+	height: 781px;
 	background-color: #e7e5c8;
-	width: 40%;
-	height: 80%;
-	padding: 0 5%;
-	position: absolute;
-}
+	padding: 1px 100px;
 
-.logo {
-	width: 10%;
-	height: 5%;
-	margin-top: 5%;
-	float: left;
-}
-
-.phone {
-	width: 40%;
-	height: 10%;
-	background-image: url("//images/phone.png");
-	background-color: #6a684d;
-	float: right;
 }
