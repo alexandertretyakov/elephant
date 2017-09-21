@@ -1,11 +1,23 @@
 body {
-	background-color: #f1f0e0;
-	padding: 20px 490px;
-}
-#container {
 	width: 951px;
 	height: 781px;
 	background-color: #e7e5c8;
-	padding: 1px 100px;
-
+	margin: 0 auto;
+}
+h1 {
+	float: left;
+}
+.phone {
+	width: 274px;
+	height: 88px;
+	float: right;
+	background-image: url("../images/phone.png");
+	margin-top: auto;
+	color: white;
+	text-align: center;
+	font-family: Tahoma, Lucida, sans-serif;
+}
+hr {
+	clear: right;
+	color: #99955d;
 }
