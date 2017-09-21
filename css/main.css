@@ -3,7 +3,20 @@ body {
 	height: 781px;
 	background-color: #e7e5c8;
 	margin: 0 auto;
+	font-family: Tahoma, Lucida, sans-serif;
+	font-size: 14px;
+	color: #99955d;
 }
+
+.letter {
+	font-size: 16px;
+	color: #a7c043;
+}
+
+h4{
+	color: #6e6b65;
+}
+
 h1 {
 	float: left;
 }
@@ -15,9 +28,16 @@ h1 {
 	margin-top: auto;
 	color: white;
 	text-align: center;
-	font-family: Tahoma, Lucida, sans-serif;
 }
 hr {
+	width: 900px;
 	clear: right;
 	color: #99955d;
 }
+
+.maket {
+	float: left;
+	width: 450px;
+	height: 265px;
+}
+
