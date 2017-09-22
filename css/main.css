@@ -13,13 +13,14 @@ body {
 	color: #a7c043;
 }
 
-h4{
+h4 {
 	color: #6e6b65;
 }
 
 h1 {
 	float: left;
 }
+
 .phone {
 	width: 274px;
 	height: 88px;
@@ -29,15 +30,53 @@ h1 {
 	color: white;
 	text-align: center;
 }
-hr {
+
+header {
 	width: 900px;
-	clear: right;
-	color: #99955d;
+	height: 90px;
+	border-bottom: 1px solid #99955d;
+}
+
+.content {
+	width: 900px;
+	height: 330px;
+	border-top: 1px solid white;
+	border-bottom: 1px solid #99955d;
 }
 
 .maket {
 	float: left;
-	width: 450px;
+	width: 342px;
 	height: 265px;
+	background-image: url("../images/ho.jpg");
+	margin-top: 50px;
 }
+
+.company {
+	width: 400px;
+	height: 265px;
+	float: right;
+}
+
+a{
+	color: #a7c043;
+}
+
+.product {
+	width: 900px;
+	height: 280px;
+	background-color: #dedbbb;
+	border-top: 1px solid white;
+}
+
+.gallery {
+	width: 300px;
+	height: 250px;
+	background-color: white;
+	margin-top: 10px;
+}
+
+
+
+
 
