@@ -72,11 +72,24 @@ a{
 .gallery {
 	width: 300px;
 	height: 250px;
-	background-color: white;
 	margin-top: 10px;
+	border-right: 1px solid white;
+	padding: 0 20px;
 }
 
+.room1 .room2 .room3 .room4 {
+	width: 120px;
+	height: 100px;
+	border: 5px;
+	border-color: #99955d;
+	border-radius: 10px;
+}
 
-
+.room1 {
+	width: 120px;
+	height: 100px;
+	background-image: url("../images/room_1.jpg");
+	background-color: #6e6b65;
+}
 
 
