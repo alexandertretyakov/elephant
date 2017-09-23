@@ -1,93 +1,93 @@
 body {
-	width: 951px;
-	height: 781px;
-	background-color: #e7e5c8;
-	margin: 0 auto;
-	font-family: Tahoma, Lucida, sans-serif;
-	font-size: 14px;
-	color: #99955d;
+    width: 951px;
+    height: 781px;
+    background-color: #e7e5c8;
+    margin: 0 auto;
+    font-family: Tahoma, Lucida, sans-serif;
+    font-size: 14px;
+    color: #99955d;
 }
 
 .letter {
-	font-size: 16px;
-	color: #a7c043;
+    font-size: 16px;
+    color: #a7c043;
 }
 
 h4 {
-	color: #6e6b65;
+    color: #6e6b65;
 }
 
 h1 {
-	float: left;
+    float: left;
 }
 
 .phone {
-	width: 274px;
-	height: 88px;
-	float: right;
-	background-image: url("../images/phone.png");
-	margin-top: auto;
-	color: white;
-	text-align: center;
+    width: 274px;
+    height: 88px;
+    float: right;
+    background-image: url("../images/phone.png");
+    margin-top: auto;
+    color: white;
+    text-align: center;
 }
 
 header {
-	width: 900px;
-	height: 90px;
-	border-bottom: 1px solid #99955d;
+    width: 900px;
+    height: 90px;
+    border-bottom: 1px solid #99955d;
 }
 
 .content {
-	width: 900px;
-	height: 330px;
-	border-top: 1px solid white;
-	border-bottom: 1px solid #99955d;
+    width: 900px;
+    height: 330px;
+    border-top: 1px solid white;
+    border-bottom: 1px solid #99955d;
 }
 
 .maket {
-	float: left;
-	width: 342px;
-	height: 265px;
-	background-image: url("../images/ho.jpg");
-	margin-top: 50px;
+    float: left;
+    width: 342px;
+    height: 265px;
+    background-image: url("../images/ho.jpg");
+    margin-top: 50px;
 }
 
 .company {
-	width: 400px;
-	height: 265px;
-	float: right;
+    width: 400px;
+    height: 265px;
+    float: right;
 }
 
 a{
-	color: #a7c043;
+    color: #a7c043;
 }
 
 .product {
-	width: 900px;
-	height: 280px;
-	background-color: #dedbbb;
-	border-top: 1px solid white;
+    width: 900px;
+    height: 280px;
+    background-color: #dedbbb;
+    border-top: 1px solid white;
 }
 
 .gallery {
-	width: 300px;
-	height: 250px;
-	margin-top: 10px;
-	border-right: 1px solid white;
-	padding: 0 20px;
+    width: 300px;
+    height: 250px;
+    margin-top: 10px;
+    border-right: 1px solid white;
+    padding: 0 20px;
 }
 
 .gallery a img {
-	border-radius: 5px;
-	display: block;
+    border-radius: 5px;
+    display: block;
 }
 
 .gallery a {
-	float: left;
-	background: #b7b192;
-	padding: 3px 18px 3px 3px;
-	border-radius: 5px;
-	margin: 0 7px 8px 0;
+    float: left;
+    background: #b7b192;
+    padding: 3px 18px 3px 3px;
+    border-radius: 5px;
+    margin: 0 7px 8px 0;
 }
 
 
