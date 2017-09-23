@@ -78,19 +78,16 @@ a{
 }
 
 .gallery a img {
-	width: 120px;
-	height: 80px;
-	border: 2px
+	border-radius: 5px;
+	display: block;
 }
 
 .gallery a {
+	float: left;
+	background: #b7b192;
+	padding: 3px 18px 3px 3px;
 	border-radius: 5px;
-	border-color: black;
-    display: block;
-	width: 130px;
-	height: 90px;
-	border: 2px;
-
+	margin: 0 7px 8px 0;
 }
 
 
