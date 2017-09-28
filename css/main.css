@@ -162,13 +162,10 @@ li {
 .service img {
     float: right;
     margin-top: -9px;
+    margin-left: -10px;
 }
 
-.footer {
-    width: 900px;
-}
-
-.butterfly {
+.batterfly {
     width: 400px ;
     float: right;
     padding-top: 18px;
