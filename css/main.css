@@ -141,6 +141,7 @@ a{
 li {
     list-style-image: url(../images/dot.gif);
     line-height: 150%;
+    text-decoration: underline;
 }
 
 .j {
