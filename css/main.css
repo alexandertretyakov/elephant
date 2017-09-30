@@ -11,17 +11,6 @@ body {
     margin: 0 auto;
 }
 
-.call {
-    font-weight: bold;
-    margin-left: 29px;
-}
-.digit {
-    font-family: "Times New Roman", serif;
-    font-weight: bold;
-    font-size: 14px;
-    color: white;
-}
-
 .letter {
     font-size: 14px;
     color: #90aa1f;
@@ -44,20 +33,28 @@ h1 {
     margin-left: 23px;
 }
 
+/* ------------------------------------------------ Phone */
+
 .phone {
     width: 274px;
     height: 88px;
-    float: right;
     background-image: url("../images/phone.png");
-    margin-top: auto;
-    margin-left: 459px;
-    color: white;
-    position: absolute;
+    float: right;
+    color: #fff;
+    box-sizing: border-box;
+    padding: 26px 0 0 110px;
+    margin-right: -26px;
 }
 
-dl {
-    margin-top:  25px;
-    margin-left: 82px;
+.phone h6 {
+    font-weight: bold;
+    font-size: 11px;
+    margin: 0;
+}
+
+.phone p {
+    font: bold 14px "Times New Roman", serif;
+    margin: 0 0 0 13px;
 }
 
 header {
